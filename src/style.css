@@ -1,0 +1,7 @@
+.svg-icon svg {
+  width: var(--width);
+  height: var(--height);
+  line-height: var(--width);
+  fill: var(--color);
+  overflow: hidden;
+}

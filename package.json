@@ -1,0 +1,20 @@
+{
+  "name": "come-svg",
+  "version": "0.1.0",
+  "description": "A simple SVG component for Vue & React",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Feiox/come-svg.git"
+  },
+  "keywords": [],
+  "author": "Feiox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Feiox/come-svg/issues"
+  },
+  "homepage": "https://github.com/Feiox/come-svg#readme"
+}
